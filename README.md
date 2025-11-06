@@ -154,4 +154,4 @@ This project is licensed under the **MIT License** – free for personal and com
 
 **Harsh Tikone**
 M.S. in Engineering Science (AI) – SUNY Buffalo
-⭐ 5-Star Python Developer | AI Engineer | Full-Stack Developer
+⭐ 5-Star Python Developer | AI Engineer
